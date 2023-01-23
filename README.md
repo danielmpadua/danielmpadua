@@ -15,7 +15,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmpadua&layout=compact&theme=dark)](https://github.com/danielmpadua)
 
-  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmpadua&show_icons=true&theme=dark)
+  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmpadua&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 </h4>
 
