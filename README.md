@@ -21,7 +21,7 @@
 
 <h6 align="center">
 
-  Best project / Melhor projeto
+  Final paper / TCC
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aphiex&repo=aphiexapp&theme=dark)](https://github.com/aphiex/aphiexapp)
 
