@@ -25,12 +25,13 @@
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aphiex&repo=aphiexapp&theme=dark)](https://github.com/aphiex/aphiexapp)
  
- [![Snake animation](https://github.com/danielmpadua/danielmpadua/blob/main/.github/workflows/snake.yml)
+
 
 
 </h6>
 
-
+ ![Snake animation](https://github.com/danielmpadua/danielmpadua/blob/output/github-contribution-grid-snake.svg)
+ 
 <br/>
 <br/>
 
