@@ -138,7 +138,7 @@ Olá! Muito prazer, aqui você poderá conhecer um pouco mais sobre mim  🖐
   INFORMAÇÕES PESSOAIS
 </h4>
 
-- Apaixonado por `tecnologia 💻`, `música 🎸`, `academia 🏋️‍♂️`, `desenvolvimento pessoal 📚`,  `investimentos 💰`, `viagens 🏖`, `natureza 🏕`, `games 🎮`, `aprender coisas novas 👨‍🎓`, `anime 📺`, `pudim 🍮` e  muito mais!
+- Apaixonado por `tecnologia 💻`, `música 🎸`, `academia 🏋️‍♂️`, `desenvolvimento pessoal 📚`,  `investimentos 💰`, `viagens 🗽`, `natureza ⛺`, `games 🎮`, `aprender coisas novas 👨‍🎓`, `anime 📺`, `pudim 🍮` e  muito mais!
 
 - Quero me desenvolver ao máximo em todas as áreas de meu interesse e busco viver uma vida leve e empolgante.
 
