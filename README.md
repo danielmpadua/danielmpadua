@@ -168,3 +168,13 @@ Olá! Muito prazer, aqui você poderá conhecer um pouco mais sobre mim  🖐
 - Além de querer me especializar no Front, pretendo aprender mais sobre Backend e outras áreas.
 
 - Inglês em construção.
+
+<br/>
+<br/>
+    
+##
+    
+<p align="center"> 
+  Visitor count | Contador de visitas<br>
+  <img src="https://profile-counter.glitch.me/danielmpadua/count.svg" />
+</p>
