@@ -13,9 +13,9 @@
 
 <h4 align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmpadua&layout=compact&theme=dark)](https://github.com/danielmpadua)
+  [![Top Langs](https://readme-danielmpadua.vercel.app/api/top-langs/?username=danielmpadua&layout=compact&theme=dark)](https://github.com/danielmpadua)
 
-  ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmpadua&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+  ![Daniel's GitHub stats](https://readme-danielmpadua.vercel.app/api?username=danielmpadua\&include_all_commits=true\&count_private=true\&count_private=true\&show_icons=true\&theme=dark)
 
 </h4>
 
@@ -23,7 +23,7 @@
 
   Final paper | TCC
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aphiex&repo=aphiexapp&theme=dark)](https://github.com/aphiex/aphiexapp)
+  [![Readme Card](https://readme-danielmpadua.vercel.app/api/pin/?username=aphiex&repo=aphiexapp&theme=dark)](https://github.com/aphiex/aphiexapp)
 
 </h6>
  
